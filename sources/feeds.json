@@ -1,0 +1,265 @@
+{
+ "_readme": "Curated legal-sector podcasts. Seeded 21 Nov 2026 by Regulatory Watch and Legal Research Counsel; feeds from Apple's public directory. Run `python3 tools/bnl.py feeds` to check each one. Set status to 'dormant' to skip a feed without deleting it.",
+ "feeds": [
+  {
+   "name": "Supreme Court Observer",
+   "host": "SCO",
+   "region": "india",
+   "focus": "Supreme Court cases and how the judiciary works",
+   "rss": "https://anchor.fm/s/7f98ef0c/podcast/rss",
+   "status": "active"
+  },
+  {
+   "name": "Vidhi Centre for Legal Policy's Podcast",
+   "host": "Vidhi Centre for Legal Policy",
+   "region": "india",
+   "focus": "Law reform and justice policy",
+   "rss": "https://feeds.soundcloud.com/users/soundcloud:users:165178268/sounds.rss",
+   "status": "active"
+  },
+  {
+   "name": "Nyaaya.org",
+   "host": "Nyaaya",
+   "region": "india",
+   "focus": "Legal literacy and access to justice",
+   "rss": "https://anchor.fm/s/3e97f020/podcast/rss",
+   "status": "dormant"
+  },
+  {
+   "name": "Ideas of India",
+   "host": "Shruti Rajagopalan (Mercatus)",
+   "region": "india",
+   "focus": "State capacity, courts and institutions",
+   "rss": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+   "status": "active"
+  },
+  {
+   "name": "The Seen and the Unseen",
+   "host": "Amit Varma",
+   "region": "india",
+   "focus": "Long-form public policy, including courts and pendency",
+   "rss": "https://rss.libsyn.com/shows/91647/destinations/458496.xml",
+   "status": "active"
+  },
+  {
+   "name": "Puliyabaazi",
+   "host": "Pranay Kotasthane and Saurabh Chandra",
+   "region": "india",
+   "focus": "Hindi public policy and tech",
+   "rss": "https://api.substack.com/feed/podcast/2385534.rss",
+   "status": "active"
+  },
+  {
+   "name": "Grand Tamasha",
+   "host": "Milan Vaishnav (Carnegie)",
+   "region": "india",
+   "focus": "Indian politics and institutions",
+   "rss": "https://feeds.simplecast.com/dJuLIw5J",
+   "status": "active"
+  },
+  {
+   "name": "All Things Policy",
+   "host": "Takshashila Institution",
+   "region": "india",
+   "focus": "Daily Indian policy, often tech regulation",
+   "rss": "https://anchor.fm/s/f4c5dde4/podcast/rss",
+   "status": "active"
+  },
+  {
+   "name": "CivicDataLab",
+   "host": "CivicDataLab",
+   "region": "india",
+   "focus": "Open data and civic tech, including justice data",
+   "rss": "https://anchor.fm/s/291ed330/podcast/rss",
+   "status": "dormant"
+  },
+  {
+   "name": "Kanooni Kisse",
+   "host": "Abhas Mishra",
+   "region": "india",
+   "focus": "Law and practice stories (unconfirmed focus)",
+   "rss": "https://anchor.fm/s/703094c0/podcast/rss",
+   "status": "active"
+  },
+  {
+   "name": "The Legal Tech Podcast",
+   "host": "Namit Oberoy",
+   "region": "india",
+   "focus": "Indian legal tech",
+   "rss": "https://anchor.fm/s/68486f1c/podcast/rss",
+   "status": "dormant"
+  },
+  {
+   "name": "LawNext",
+   "host": "Bob Ambrogi",
+   "region": "global",
+   "focus": "Legal innovation and legal tech founders",
+   "rss": "https://rss.pdrl.fm/f11e7b/feeds.libsyn.com/125768/rss/?redirect=false",
+   "status": "active"
+  },
+  {
+   "name": "Legaltech Week",
+   "host": "LawNext Media",
+   "region": "global",
+   "focus": "Weekly legal tech news panel",
+   "rss": "https://rss.libsyn.com/shows/259733/destinations/1970093.xml",
+   "status": "active"
+  },
+  {
+   "name": "The Geek in Review",
+   "host": "Greg Lambert and Marlene Gebauer",
+   "region": "global",
+   "focus": "Legal information, innovation and AI",
+   "rss": "https://anchor.fm/s/4440da0/podcast/rss",
+   "status": "active"
+  },
+  {
+   "name": "Lawyerist Podcast",
+   "host": "Lawyerist",
+   "region": "global",
+   "focus": "Running a small firm and the future of practice",
+   "rss": "https://api.riverside.com/hosting/zPfarFkg.rss",
+   "status": "active"
+  },
+  {
+   "name": "Technically Legal",
+   "host": "Chad Main",
+   "region": "global",
+   "focus": "Legal tech and innovation",
+   "rss": "https://technicallylegal.libsyn.com/rss",
+   "status": "active"
+  },
+  {
+   "name": "The Kennedy-Mighell Report",
+   "host": "Legal Talk Network",
+   "region": "global",
+   "focus": "Legal technology",
+   "rss": "https://feeds.megaphone.fm/LTN5814144878",
+   "status": "active"
+  },
+  {
+   "name": "Thinking Like a Lawyer",
+   "host": "Above the Law",
+   "region": "global",
+   "focus": "The business of law",
+   "rss": "https://feeds.megaphone.fm/LTN9584319601",
+   "status": "active"
+  },
+  {
+   "name": "Proof Over Precedent",
+   "host": "Access to Justice Lab, Harvard Law School",
+   "region": "global",
+   "focus": "Access to justice and evidence",
+   "rss": "https://feeds.castos.com/oz6rk",
+   "status": "active"
+  },
+  {
+   "name": "Stanford Legal",
+   "host": "Stanford Law School",
+   "region": "global",
+   "focus": "Law and policy, sometimes AI",
+   "rss": "https://feeds.simplecast.com/_45D2qy7",
+   "status": "active"
+  },
+  {
+   "name": "Law Bytes",
+   "host": "Michael Geist",
+   "region": "global",
+   "focus": "Tech law and policy (Canada)",
+   "rss": "https://feeds.castos.com/05o3",
+   "status": "active"
+  },
+  {
+   "name": "Legally Speaking Podcast",
+   "host": "Rob Hanna",
+   "region": "global",
+   "focus": "Careers and innovation in the legal industry",
+   "rss": "https://anchor.fm/s/101c33884/podcast/rss",
+   "status": "active"
+  },
+  {
+   "name": "Law Punx",
+   "host": "Artificial Lawyer",
+   "region": "global",
+   "focus": "Legal AI news and interviews",
+   "rss": "https://anchor.fm/s/10848c2dc/podcast/rss",
+   "status": "dormant"
+  },
+  {
+   "name": "Law, disrupted",
+   "host": "John Quinn",
+   "region": "global",
+   "focus": "Law, tech and the legal business",
+   "rss": "https://rss.buzzsprout.com/1948529.rss",
+   "status": "active"
+  },
+  {
+   "name": "Ipse Dixit",
+   "host": "Brian L. Frye",
+   "region": "global",
+   "focus": "Legal scholarship, the profession, access to justice",
+   "rss": "https://feeds.acast.com/public/shows/5bb26c9287ef87811438a58b",
+   "status": "active"
+  },
+  {
+   "name": "MondAI bAIgel",
+   "host": "Michal Jackowski",
+   "region": "global",
+   "focus": "AI in law",
+   "rss": "https://www.spreaker.com/show/5831690/episodes/feed",
+   "status": "dormant"
+  }
+ ],
+ "watch_list": [
+  {
+   "name": "Stanford CodeX",
+   "what": "FutureLaw conference and weekly talks",
+   "where": "YouTube"
+  },
+  {
+   "name": "Stanford Legal Design Lab",
+   "what": "AI and access to justice research, webinars",
+   "where": "web, YouTube"
+  },
+  {
+   "name": "Legal Services Corporation",
+   "what": "Innovations in Technology conference, Justice Gap reports",
+   "where": "lsc.gov, YouTube"
+  },
+  {
+   "name": "Agami",
+   "what": "Agami Prize and justice innovation events",
+   "where": "agami.in"
+  },
+  {
+   "name": "DAKSH",
+   "what": "Rule of Law Project and court data",
+   "where": "dakshindia.org"
+  },
+  {
+   "name": "Vidhi Centre for Legal Policy",
+   "what": "Reports, webinars, JALDI",
+   "where": "vidhilegalpolicy.in"
+  },
+  {
+   "name": "NALSA",
+   "what": "Legal aid schemes, Lok Adalat material",
+   "where": "nalsa.gov.in"
+  },
+  {
+   "name": "Supreme Court e-Committee and eCourts",
+   "what": "eCourts Phase III, SUVAS, SUPACE notices",
+   "where": "ecommitteesci.gov.in"
+  },
+  {
+   "name": "Legal Geek",
+   "what": "UK legal innovation conference talks",
+   "where": "YouTube"
+  },
+  {
+   "name": "HiiL",
+   "what": "Justice Dashboard and Justice Accelerator",
+   "where": "hiil.org"
+  }
+ ]
+}

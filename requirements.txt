@@ -1,1 +1,5 @@
+# The tool runs on the Python standard library. These two add YouTube search and free captions.
+yt-dlp>=2025.1.1
+youtube-transcript-api>=1.2,<2
+# Only for the optional Whisper path in reference-impl/get_transcript.py
 requests>=2.31,<3

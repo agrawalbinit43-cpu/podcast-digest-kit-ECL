@@ -1,0 +1,104 @@
+{
+ "_readme": "Named topic sets. search \"legal ai\" expands to these phrases. A single keyword counts only when no phrase matched. trending runs every set. Add or edit freely.",
+ "topics": {
+  "legal ai": {
+   "aliases": [
+    "ai in law",
+    "ai lawyers",
+    "generative ai law"
+   ],
+   "terms": [
+    "legal AI",
+    "AI in law",
+    "AI lawyers",
+    "law firm AI",
+    "generative AI law",
+    "Harvey AI"
+   ],
+   "keywords": [
+    "ai",
+    "genai",
+    "llm",
+    "harvey",
+    "chatgpt"
+   ]
+  },
+  "legal tech": {
+   "aliases": [
+    "legaltech",
+    "legal technology"
+   ],
+   "terms": [
+    "legal tech",
+    "law firm technology",
+    "contract automation",
+    "legal software"
+   ],
+   "keywords": [
+    "clio",
+    "contract lifecycle"
+   ]
+  },
+  "future of law": {
+   "aliases": [
+    "practice of law",
+    "law firm",
+    "legal services"
+   ],
+   "terms": [
+    "future of law",
+    "legal services",
+    "law firm business model",
+    "legal profession"
+   ]
+  },
+  "access to justice": {
+   "aliases": [
+    "a2j",
+    "justice",
+    "legal aid"
+   ],
+   "terms": [
+    "access to justice",
+    "legal aid",
+    "justice gap",
+    "legal empowerment",
+    "people-centred justice"
+   ],
+   "keywords": [
+    "a2j"
+   ]
+  },
+  "digital justice": {
+   "aliases": [
+    "digital public goods",
+    "e-courts",
+    "online courts",
+    "odr"
+   ],
+   "terms": [
+    "digital public goods justice",
+    "online dispute resolution",
+    "ecourts",
+    "online courts",
+    "court technology"
+   ],
+   "keywords": [
+    "odr"
+   ]
+  },
+  "india law": {
+   "aliases": [
+    "indian legal",
+    "india legal"
+   ],
+   "terms": [
+    "Indian legal system",
+    "Indian judiciary reform",
+    "Indian law firm",
+    "India legal tech",
+    "judicial pendency India"
+   ]
+  }
+ }
+}

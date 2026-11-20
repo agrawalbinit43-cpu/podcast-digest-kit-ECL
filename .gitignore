@@ -5,7 +5,8 @@
 config.json
 state.json
 
-# Generated podcast data — do not publish transcripts or personal digest state
+# Generated data. Never publish transcripts, records or digests
+library/
 transcripts/
 records/
 digests/

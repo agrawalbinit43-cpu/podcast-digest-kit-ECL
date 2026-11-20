@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-get_transcript.py — acquire a transcript for one episode, with a fallback chain.
+get_transcript.py: acquire a transcript for one episode, with a fallback chain.
 
 Reference implementation for SPEC.md §4-§5. Dependencies: requests (+ yt-dlp and ffmpeg on PATH
 for the Whisper path).
